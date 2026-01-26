@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-  <img src="pro1.jpg" alt="Logo" width="100%" height="100%">
+  <img src="Netflix Homepage.jpg" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
